@@ -5,7 +5,7 @@ Building innovative software, intelligent tools, and creative technology.
 ## About
 
 LUMORIX STUDIOS is a technology-focused organization dedicated to developing modern applications, developer tools, and experimental projects. We explore the intersection of software engineering, artificial intelligence, and user-focused design to create practical and forward-thinking solutions. We arent an actual company but simply a team that just build things
-
+##Made the logo using AI lol
 ## Projects
 
 Our work includes:
