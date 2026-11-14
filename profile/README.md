@@ -13,7 +13,4 @@ Contributions, feedback, and ideas are welcome. If you are interested in collabo
 
 For questions, collaboration opportunities, or project inquiries, open an issue in the relevant repository or reach out through our organization profile.
 
----
-
-LUMORIX STUDIOS  
 
