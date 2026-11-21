@@ -8,6 +8,7 @@ Technology-focused organization dedicated to developing modern applications, dev
 ## Contributing
 
 Contributions, feedback, and ideas are welcome. If you are interested in collaborating, feel free to explore our repositories and participate in discussions.
+Inquiries about joining the organization is done through our email in our website!
 
 ## Contact
 
