@@ -7,7 +7,7 @@ Technology-focused organization dedicated to developing modern applications, dev
 ## (renamed from Lumorix-Studios)
 ## Contributing
 
-Contributions, feedback, and ideas are welcome. If you are interested in collaborating, feel free to explore our repositories and participate in discussions.
+Contributions, feedback, and ideas are welcome. If you are interested in collaborating, feel free to explore our repositories and participate in discussions.<br>
 Inquiries about joining the organization is done through our email in our website!
 
 ## Contact
